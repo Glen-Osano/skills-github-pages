@@ -1,5 +1,5 @@
 ---
-title: Welcome to my v-blog!
+title: Welcome to my v-blog today!
 ---
 **Thisisgood**
 **Install chrome and make it default browser** 
