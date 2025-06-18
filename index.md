@@ -1,7 +1,7 @@
 ---
 title: Welcome to my v-blog today!
 ---
-**Thisisgood**
+**Thisisgreat**
 **Install chrome and make it default browser** 
 
 **Install office 
